@@ -4,4 +4,8 @@ ADD row
 文字修改新增YUANSHENG
 再追加一行新增文字
 jillkao push test
+<<<<<<< HEAD
 12456
+=======
+qwertyuiopasdfghjkl
+>>>>>>> bf8fed310833dac7283c2ebe6ec0859aaaaebcff
